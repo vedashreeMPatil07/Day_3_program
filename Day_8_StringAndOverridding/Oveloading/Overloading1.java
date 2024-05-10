@@ -18,7 +18,7 @@
 
      public static void area (int length ,int breadth , int hypotenious)
      {
-        System.out.println(0.5(hypotenious+length+breadth));
+        System.out.println(0.5 *(hypotenious+length+breadth));
 
      }
 }

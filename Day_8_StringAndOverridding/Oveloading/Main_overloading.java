@@ -6,9 +6,8 @@ public class Main_overloading {
     {
         Overloading1  fo =new Overloading1();
 
-        fo.area(length:10 ,breadth :15);
-        fo.area(length:10);
-        fo.area(radius:10.00);
-       fo.area(length:10, breadth:10, hypotenious:10);
-    }
+        fo.area(10, 15);
+        fo.area(10);
+fo.area(10.00);
+fo.area(10, 20, 50);    }
 }
