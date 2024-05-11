@@ -1,8 +1,9 @@
-  package Oveloading;
+package overloading;
 
- public class Overloading1 {
+public class File_overloading {
 
-    public static void area(int length , int breadth)
+	
+	public static void area(int length , int breadth)
     {
         System.out.println(length*breadth);
     }
@@ -19,6 +20,5 @@
      public static void area (int length ,int breadth , int hypotenious)
      {
         System.out.println(0.5 *(hypotenious+length+breadth));
-
-     }
+}
 }
