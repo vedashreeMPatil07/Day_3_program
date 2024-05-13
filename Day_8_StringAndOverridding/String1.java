@@ -8,7 +8,7 @@ public class String1 {
    String s="hello"; //stored in SCP
    String s1 =new String("hello"); // strore in object,if varible and object value same so its refer to same in scp 
    System.out.println(s==s1); //false -->campare to object and varible = false
-   System.out.println(s.equals(s1)); //true
+   System.out.println(s.equals(s1)); //true address match
    System.out.println(s.intern()==s1); //true
    String s2=s.replace('e' , 'o');   
 System.out.println("after replace:  " +s2);  
@@ -42,6 +42,13 @@ String str1 = str.replace("*", "");
 System.out.println("delete:" +sb.delete(2,7));
 System.out.println("insert:" +sb.insert( 1 , "**"));
 System.out.println("reverse:" +sb.reverse());
+
+
+
+
+
+
+
 
 }
 
