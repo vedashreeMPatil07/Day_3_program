@@ -20,7 +20,7 @@ for(int i =0;i<n;i++)
 			return fibbo(n-1)+fibbo(n-2);
 		}
 	}
-//prime
+
 	//amstrong
 	//factorial using recursion
 	//dassarium number
