@@ -1,4 +1,3 @@
-package java_oops_method_example;
 
 public class Example_2 {
 public static double calculateArea(double length, double width) {
