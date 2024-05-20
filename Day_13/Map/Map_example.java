@@ -34,9 +34,9 @@ public static void main(String args [])
  List<Employee> list=new ArrayList<>();
     Map<String,List<Employee>> map2=new HashMap<>();
     Employee employee=
-            new Employee(1,"jghjg","fghf");
+            new Employee(1,"Amisha","IT");
     Employee employee1=
-            new Employee(2,"fghgf","tuytuy");
+            new Employee(2,"Pratiksha","manager");
     list.add(employee);
     list.add(employee1);
     map2.put("Tech",list);
