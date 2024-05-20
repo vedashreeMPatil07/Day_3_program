@@ -28,9 +28,12 @@ public static void main(String args [])
      System.out.println(map);
 
      Map<Integer,String> map1=new TreeMap<>();
+     System.out.println("tree map:  ");
      map1.put(1,"hello");
      map1.put(2,"");
      map1.put(5,"hi");
+     map.put("null", null);
+     System.out.println("tree map:" +map1);
  List<Employee> list=new ArrayList<>();
     Map<String,List<Employee>> map2=new HashMap<>();
     Employee employee=
@@ -52,8 +55,8 @@ public static void main(String args [])
 
      stack.add(list);
      System.out.println(stack);
-//     stack.pop();
-//  System.out.println(stack);
+  stack.pop();
+  System.out.println(stack);
   stack.remove(list);
      System.out.println(stack);
 //     ArrayList<> arrayList=new ArrayList<>();
