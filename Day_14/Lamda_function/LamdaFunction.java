@@ -17,7 +17,6 @@ public class LamdaFunction {
                 System.out.println("num is devisible by 10 : " +n);
             }
         });
-System.out.println( );
         arrayList.forEach(n -> System.out.println("print all : " +n));
 
         List<Person> people = Arrays.asList(
