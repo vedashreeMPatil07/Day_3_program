@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Admin\OneDrive\Desktop\Company\Day_3_program\Day_3_program\Day_13\Map\.metadata\.plugins\org.eclipse.jdt.core
-2304840093.index
-863403315.index

@@ -34,8 +34,6 @@ public static void main(String args [])
      map1.put(5,"hi");
      map.put("null", null);
      System.out.println("tree map:" +map1);
-
-     //nested collection :collection inside collection
  List<Employee> list=new ArrayList<>();
     Map<String,List<Employee>> map2=new HashMap<>();
     Employee employee=
