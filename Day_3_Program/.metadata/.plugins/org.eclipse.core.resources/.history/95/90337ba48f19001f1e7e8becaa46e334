@@ -1,0 +1,9 @@
+package a000_Introduction_Java;
+
+public class A00_Variables {
+
+	public static void main(String[] args) {
+
+	}
+
+}

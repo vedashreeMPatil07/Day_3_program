@@ -1,0 +1,31 @@
+package a000_Introduction;
+
+public class Varibles {
+
+	public static void main(String[] args) {
+
+
+        /*Variables:---
+       1. Variables is the name of memory location where we can store the data
+       2.Each variable should have unique value
+       --> Why we used variables
+       1. Using variables we can used that data  again and again
+       2. Using variables we can perform multiple operation on data . */ 
+
+       System.out.println("Types of varibles:");
+       /*Types 
+       1. Local variables
+       2.Instance variables
+       3.Static variables */ 
+
+       System.out.println("Local varibles");
+        /*1.Local variables are declare inside the method , block and constructor.
+         * 2. scope of local variable is inside the method.
+         * 3.local variables are stored in stack memory.
+         * Local variable don't have default value.
+         */
+
+       
+	}
+
+}
